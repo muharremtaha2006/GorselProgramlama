@@ -1,0 +1,5 @@
+elmas
+masa
+kedi
+araba
+kitap

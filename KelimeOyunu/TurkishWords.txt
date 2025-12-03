@@ -1,0 +1,800 @@
+masa
+kasa
+kilo
+kedi
+köpek
+araba
+kalem
+silgi
+defter
+çanta
+bala
+baba
+anne
+dede
+tepe
+yama
+yasa
+yaka
+yaka
+sarý
+mavi
+beyaz
+siyah
+toprak
+orman
+deniz
+gölge
+fidan
+çocuk
+oyun
+yolcu
+camcý
+balýk
+kýrýk
+sýcak
+soðuk
+uzun
+kýsa
+hýzlý
+yavaþ
+kapý
+pencere
+mutfak
+sandalye
+koltuk
+sehpa
+kitap
+yazar
+dört
+beþlik
+yemek
+yaðmur
+bulut
+güneþ
+rüzgar
+karanlýk
+ýþýk
+tatlý
+ekþi
+acý
+yumuþak
+sert
+güzel
+çirkin
+temiz
+kirli
+yüksek
+alçak
+kule
+kumaþ
+çöpçü
+iþçi
+uçak
+tren
+taksi
+bilet
+meyve
+sebze
+elma
+armut
+kiraz
+karpuz
+çilek
+muzlu
+þeker
+çikolata
+kitaplýk
+okul
+kaleci
+savaþ
+barýþ
+yazý
+kýþlýk
+bahar
+sonbahar
+kuþak
+çakýl
+deneme
+çalýþma
+arkadaþ
+yazýlým
+program
+bilgisayar
+oyuncu
+kelime
+harf
+puzzle
+oylama
+merkez
+liste
+puan
+sistem
+elma
+elmas
+selam
+sal
+ale
+mesa
+masa
+sam
+ama
+kedi
+ek
+dik
+ki
+araba
+aba
+ara
+bar
+kitap
+tip
+kap
+tipi
+kalem
+alem
+akýl
+sil
+salem
+dal
+mad
+kad
+tek
+met
+set
+akme
+mek
+tem
+dem
+bed
+kadim
+taksi
+ask
+sak
+kas
+ekim
+kim
+mekan
+an
+amaç
+çalýþ
+çalýþma
+masaüstü
+masaüstü
+meksika
+tarihi
+kültür
+sanat
+resim
+müzik
+film
+oyun
+spor
+futbol
+basketbol
+voleybol
+tenis
+yüzme
+koþu
+doða
+orman
+dað
+deniz
+göl
+nehir
+çiçek
+bitki
+hayvan
+kedi
+köpek
+kuþ
+balýk
+kaplumbaða
+aslan
+fil
+maymun
+tavþan
+fare
+arý
+kelebek
+karýnca
+koyun
+inek
+tavuk
+horoz
+elma
+elmas
+selam
+sal
+ale
+mesa
+masa
+sam
+ama
+kedi
+ek
+dik
+ki
+araba
+aba
+ara
+bar
+kitap
+tip
+kap
+tipi
+kalem
+alem
+akýl
+sil
+salem
+dal
+mad
+kad
+tek
+met
+set
+akme
+mek
+tem
+dem
+bed
+kadim
+taksi
+ask
+sak
+kas
+ekim
+kim
+mekan
+an
+amaç
+çalýþ
+çalýþma
+masaüstü
+meksika
+tarihi
+kültür
+sanat
+resim
+müzik
+film
+oyun
+spor
+futbol
+basketbol
+voleybol
+tenis
+yüzme
+koþu
+doða
+orman
+dað
+deniz
+göl
+nehir
+çiçek
+bitki
+hayvan
+köpek
+kuþ
+balýk
+kaplumbaða
+aslan
+fil
+maymun
+tavþan
+fare
+arý
+kelebek
+karýnca
+koyun
+inek
+tavuk
+horoz
+bahçe
+ev
+okul
+hastane
+restoran
+market
+maðaza
+otobüs
+tren
+uçak
+gemi
+araba
+bisiklet
+motorsiklet
+yol
+köprü
+tünel
+park
+bahçe
+bahçelik
+çiðdem
+lale
+gül
+menekþe
+nane
+maydanoz
+domates
+biber
+patates
+soðan
+sarýmsak
+elma
+armut
+muz
+çilek
+kavun
+karpuz
+üzüm
+kiraz
+viþne
+þeftali
+kayýsý
+erik
+nar
+limon
+portakal
+mandalina
+greyfurt
+muz
+avokado
+kivi
+ananas
+hindistan cevizi
+kaju
+fýndýk
+ceviz
+badem
+fýstýk
+kakao
+çikolata
+þeker
+bal
+pekmez
+zeytin
+zeytinyaðý
+pirinç
+bulgur
+un
+makarna
+ekmek
+peynir
+süt
+yoðurt
+kaymak
+tereyaðý
+yumurta
+tavuk
+et
+balýk
+karides
+midye
+istiridye
+ahtapot
+kalamar
+yengeç
+sardalya
+hamsi
+somon
+levrek
+çipura
+ton balýðý
+uskumru
+salyangoz
+midye
+mantar
+domates
+biber
+havuç
+patlýcan
+kabak
+salatalýk
+marul
+ýspanak
+pýrasa
+lahana
+brokoli
+karnabahar
+bezelye
+fasulye
+nohut
+mercimek
+pirinç
+makarna
+bulgur
+un
+tuz
+karabiber
+kimyon
+nane
+fesleðen
+maydanoz
+dereotu
+kekik
+biberiye
+tarçýn
+karanfil
+zencefil
+sarýmsak
+soðan
+patates
+havuç
+domates
+salatalýk
+marul
+ýspanak
+pýrasa
+lahana
+brokoli
+karnabahar
+bezelye
+fasulye
+nohut
+mercimek
+yemek
+piþirmek
+kýzartmak
+haþlamak
+fýrýnlamak
+tuzlamak
+çýrpmak
+karýþtýrmak
+dilimlemek
+doðramak
+soymak
+koymak
+almak
+gitmek
+gelmek
+konuþmak
+dinlemek
+görmek
+bakmak
+izlemek
+çalýþmak
+öðrenmek
+yazmak
+okumak
+çizmek
+resim yapmak
+þarký söylemek
+dans etmek
+oynamak
+spor yapmak
+yüzmek
+koþmak
+koþu
+futbol
+basketbol
+voleybol
+tenis
+badminton
+masa tenisi
+güreþ
+jimnastik
+yoga
+pilates
+koþu bandý
+aðýrlýk
+sandalye
+masa
+kitaplýk
+bilgisayar
+telefon
+tablet
+televizyon
+radyo
+kamera
+fotoðraf makinesi
+mikrofon
+hoparlör
+ýþýk
+lamba
+masa lambasý
+abajur
+saat
+takvim
+defter
+kalem
+silgi
+cetvel
+makas
+zýmba
+dosya
+klasör
+çanta
+cüzdan
+para
+bozuk para
+kart
+bilet
+anahtar
+kapý
+pencere
+perde
+koltuk
+sandalye
+yatak
+yastýk
+çarþaf
+battaniye
+kilim
+halý
+ayna
+resim
+poster
+tablo
+duvar saati
+avize
+lamba
+telefon
+bilgisayar
+tablet
+televizyon
+radyo
+kamera
+mikrofon
+hoparlör
+ýþýk
+lamba
+masa lambasý
+abajur
+lamba
+masa lambasý
+abajur
+saat
+takvim
+defter
+silgi
+cetvel
+makas
+zýmba
+dosya
+klasör
+çanta
+cüzdan
+para
+bozuk para
+kart
+bilet
+anahtar
+kapý
+pencere
+perde
+koltuk
+yatak
+yastýk
+çarþaf
+battaniye
+kilim
+halý
+ayna
+resim
+poster
+tablo
+duvar saati
+avize
+ýþýk
+lamba direði
+lamba standý
+ýþýldak
+fener
+mum
+gaz lambasý
+kamp lambasý
+el feneri
+spot ýþýk
+neon
+led
+ampul
+duvar lambasý
+tavan lambasý
+gece lambasý
+masaüstü lambasý
+yol lambasý
+bahçe lambasý
+ýþýklandýrma
+ýþýk kaynaðý
+ýþýk efekti
+ýþýk oyunu
+renkli ýþýk
+ýþýk þeridi
+ýþýk paneli
+ýþýk sensörü
+ýþýk kontrolü
+ýþýk sistemi
+ýþýk tasarýmý
+ýþýk dekoru
+ýþýk projeksiyonu
+ýþýk gösterisi
+ýþýk festivali
+ýþýk etkinliði
+ýþýk yarýþmasý
+ýþýk gösterimi
+ýþýk atmosferi
+ýþýk temasý
+ýþýk dizayný
+ýþýk düzeni
+ýþýk kombini
+ýþýk kombinasyonu
+ýþýk kompozisyonu
+ýþýk efekti
+ýþýk filtreleri
+ýþýk ayarý
+ýþýk yoðunluðu
+ýþýk kontrol cihazý
+ýþýk aygýtý
+ýþýk lambasý
+ýþýk armatürü
+ýþýk kutusu
+ýþýk tüpü
+ýþýk halkasý
+ýþýk paneli
+ýþýk modülü
+ýþýk adaptörü
+ýþýk sensörü
+ýþýk prizmi
+ýþýk reflektörü
+ýþýk difüzörü
+ýþýk projektörü
+ýþýk spotu
+ýþýk dekoratif
+ýþýk estetik
+ýþýk ambiyansý
+ýþýk atmosferi
+ýþýk kombinasyonu
+ýþýk kontrastý
+ýþýk renkleri
+ýþýk sýcaklýðý
+ýþýk tonu
+ýþýk parlaklýðý
+ýþýk gücü
+ýþýk enerji
+ýþýk lambasý
+ýþýk kaynaðý
+ýþýk aydýnlatmasý
+ýþýk yönlendirmesi
+ýþýk tasarýmý
+ýþýk projeksiyonu
+ýþýk kontrol sistemi
+ýþýk efektleri
+ýþýk düzenleme
+ýþýk tasarýmcýsý
+ýþýk teknolojisi
+ýþýk mühendisliði
+ýþýk kontrol paneli
+ýþýk otomasyonu
+ýþýk programý
+ýþýk yazýlýmý
+ýþýk donanýmý
+ýþýk kablosu
+ýþýk adaptörü
+ýþýk transformatörü
+ýþýk güç kaynaðý
+ýþýk modülü
+ýþýk lambasý
+ýþýk reflektörü
+ýþýk armatürü
+ýþýk paneli
+ýþýk sensörü
+ýþýk efekti
+ýþýk kombinasyonu
+ýþýk atmosferi
+ýþýk dekoru
+ýþýk tasarýmý
+ýþýk gösterisi
+ýþýk festivali
+ýþýk etkinliði
+ýþýk yarýþmasý
+ýþýk gösterimi
+ýþýk temasý
+ýþýk düzeni
+ýþýk kompozisyonu
+ýþýk filtreleri
+ýþýk ayarý
+ýþýk yoðunluðu
+ýþýk kontrol cihazý
+ýþýk aygýtý
+ýþýk lambasý
+ýþýk armatürü
+ýþýk kutusu
+ýþýk tüpü
+ýþýk halkasý
+ýþýk paneli
+ýþýk modülü
+ýþýk adaptörü
+ýþýk sensörü
+ýþýk prizmi
+ýþýk reflektörü
+ýþýk difüzörü
+ýþýk projektörü
+ýþýk spotu
+ýþýk dekoratif
+ýþýk estetik
+ýþýk ambiyansý
+ýþýk atmosferi
+ýþýk kombinasyonu
+ýþýk kontrastý
+ýþýk renkleri
+ýþýk sýcaklýðý
+ýþýk tonu
+ýþýk parlaklýðý
+ýþýk gücü
+ýþýk enerji
+ýþýk lambasý
+ýþýk kaynaðý
+ýþýk aydýnlatmasý
+ýþýk yönlendirmesi
+ýþýk tasarýmý
+ýþýk projeksiyonu
+ýþýk kontrol sistemi
+ýþýk efektleri
+ýþýk düzenleme
+ýþýk tasarýmcýsý
+ýþýk teknolojisi
+ýþýk mühendisliði
+ýþýk kontrol paneli
+ýþýk otomasyonu
+ýþýk programý
+ýþýk yazýlýmý
+ýþýk donanýmý
+ýþýk kablosu
+ýþýk adaptörü
+ýþýk transformatörü
+ýþýk güç kaynaðý
+ýþýk modülü
+ýþýk lambasý
+ýþýk reflektörü
+ýþýk armatürü
+ýþýk paneli
+ýþýk sensörü
+ýþýk efekti
+ýþýk kombinasyonu
+ýþýk atmosferi
+ýþýk dekoru
+ýþýk tasarýmý
+ýþýk gösterisi
+ýþýk festivali
+ýþýk etkinliði
+ýþýk yarýþmasý
+ýþýk gösterimi
+ýþýk temasý
+ýþýk düzeni
+ýþýk kompozisyonu
+ýþýk filtreleri
+ýþýk ayarý
+ýþýk yoðunluðu
+ýþýk kontrol cihazý
+ýþýk aygýtý
+ýþýk lambasý
+ýþýk armatürü
+ýþýk kutusu
+ýþýk tüpü
+ýþýk halkasý
+ýþýk paneli
+ýþýk modülü
+ýþýk adaptörü
+ýþýk sensörü
+ýþýk prizmi
+ýþýk reflektörü
+ýþýk difüzörü
+ýþýk projektörü
+ýþýk spotu
+ýþýk dekoratif
+ýþýk estetik
+ýþýk ambiyansý
+ýþýk atmosferi
+ýþýk kombinasyonu
+ýþýk kontrastý
+ýþýk renkleri
+ýþýk sýcaklýðý
+ýþýk tonu
+ýþýk parlaklýðý
+ýþýk gücü
+ýþýk enerji
+dik
+kitap
